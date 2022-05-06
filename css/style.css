@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: white;
+    padding: 1%;
+}
+
+header,
+footer {
+    background-color: blue;
+    height: 50px;
+}
+
+.container {
+    margin: 5px 2px;
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+}
+
+article,
+aside {
+    background-color: orangered;
+    width: 115px;
+}
+
+nav {
+    background-color: rgb(112, 112, 243);
+    width: 1200px;
+}
+* {
+    margin: 0;
+    
+    border-radius: 4%;
+}
